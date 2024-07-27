@@ -36,7 +36,6 @@ Hening menggunakan beberapa komponen ini :
 ## 📚 Software & Library
  - streamlit (1.24.1)
  - pyrebase4 (4.8.0)
- - plyer (2.1.0)
  - xgboost (2.1.0)
  - numpy (1.26.4)
  - pandas (2.2.2)
