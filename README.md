@@ -1,6 +1,6 @@
 # Hening 🏫
 <p align="center">
-  <img src='./img/Logo Hening.png'width=300>
+  <img src='Logo Hening.png'width=300>
 </p>
 
 ## 📰 Overview
