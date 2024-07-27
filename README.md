@@ -4,7 +4,6 @@
 </p>
 
 ## 📰 Overview
- - **Hening** adalah jernih, bening ataupun sunyi dalam KBBI. 
  - **Hening** sebagai detektor kebisingan berfungsi untuk memonitoring suasana suara kelas serta memberikan notifikasi jika terdeteksi kebisingan.
  - **Hening** bertujuan untuk memberikan solusi yang efektif dan memastikan bahwa lingkungan belajar mengajar tetap optimal dari pengaruh suara kebisingan.
 
