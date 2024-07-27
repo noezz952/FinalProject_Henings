@@ -25,7 +25,13 @@ Hening menggunakan beberapa komponen ini :
 
 ## 🔧 Perakitan
 <p align="center">
-  <img src='wiring_max4466_bb.jpg'width=400>
+  <img src='wiring_max4466_bb.jpg'width=300>
+</p>
+<p align="center">
+  <img src='Dlm alat 2.jpeg'width=300>
+</p>
+<p align="center">
+  <img src='Dlm alat 1.jpeg'width=300>
 </p>
 
 ## 📚 Software & Library
