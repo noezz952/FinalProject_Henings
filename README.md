@@ -1,20 +1,17 @@
 # Hening 🏫
 
 ## 📰 Overview
-
  - **Hening** adalah jernih, bening ataupun sunyi dalam KBBI. 
  - **Hening** sebagai detektor kebisingan berfungsi untuk memonitoring suasana suara kelas serta memberikan notifikasi jika terdeteksi kebisingan.
  - **Hening** bertujuan untuk memberikan solusi yang efektif dan memastikan bahwa lingkungan belajar mengajar tetap optimal dari pengaruh suara kebisingan.
 
 ## ❔ What Can Hening Do?
-
  - Hening dapat mendeteksi kebisingan dengan akurasi yang tinggi.
  - Menampilkan data kebisingan dalam desibel secara real-time melalui platform website.
  - Memberi notifikasi saat keadaan ruangan/kelas berisik.
  - Menampilkan data secara real-time serta memberikan notifikasi saat keadaan kelas berisik.
 
 ## ⚡️ Wiring & Components
-
 Hening menggunakan beberapa komponen ini :
 1. 1x ESP32 
 2. 1x Sensor MAX4466
