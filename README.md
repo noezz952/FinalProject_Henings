@@ -24,7 +24,9 @@ Hening menggunakan beberapa komponen ini :
 6. 8x male/male jumper cable
 
 ## 🔧 Perakitan
-
+<p align="center">
+  <img src='wiring_max4466_bb'width=400>
+</p>
 
 ## 📚 Software & Library
  - streamlit (1.24.1)
