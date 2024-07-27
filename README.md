@@ -25,7 +25,7 @@ Hening menggunakan beberapa komponen ini :
 
 ## 🔧 Perakitan
 <p align="center">
-  <img src='wiring_max4466_bb'width=400>
+  <img src='wiring_max4466_bb.jpg'width=400>
 </p>
 
 ## 📚 Software & Library
