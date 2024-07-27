@@ -39,4 +39,4 @@ Hening menggunakan beberapa komponen ini :
  - xgboost (2.1.0)
  - numpy (1.26.4)
  - pandas (2.2.2)
-
+ - python 3
