@@ -10,7 +10,7 @@
 ## ❔ What Can Hening Do?
  - Hening dapat mendeteksi kebisingan dengan akurasi yang tinggi.
  - Menampilkan data kebisingan dalam desibel secara real-time melalui platform website.
- - Memberi notifikasi saat keadaan ruangan/kelas berisik.
+ - Memberi label saat keadaan ruangan/kelas berisik.
  - Menampilkan data secara real-time serta memberikan notifikasi saat keadaan kelas berisik.
 
 ## ⚡️ Wiring & Components
